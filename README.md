@@ -8,7 +8,7 @@ To install dog, first you need to clone this repository:
 <ul>
   <li>git clone https://github.com/ludovici-philippus/dog-file-reader/</li>
   <li>then enter into the folder: cd dog-file-reader</li>
-  <li>and so, you can just type: ./install.sh as root, then the script will move the dog file to /usr/local/bin</li>
+  <li>and so, you can just type: ./install.sh as root, (don't forget to give this file permission to run with: chmod 111 ./install.sh) then the script will move the dog file to /usr/local/bin</li>
 </ul>
 
 <h2>Utilization</h2>
